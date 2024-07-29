@@ -1,0 +1,8 @@
+.options {
+    display: flex;
+    column-gap: 10px;
+    justify-content: center;
+}
+.optionsBtn {
+    border: 1px solid;
+}
